@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://demo.synsuretech.org",
+      "permanent": true
+    }
+  ]
+}
