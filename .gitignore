@@ -14,3 +14,4 @@ test('Agent endpoint should respond with 200', async ({ request }) => {
 synsuretech-demo-backup.zip
 synsuretech-demo-backup.zip
 synsuretech-demo-backup.zip
+synsuretech-demo-backup.zip
